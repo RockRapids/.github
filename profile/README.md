@@ -1,8 +1,8 @@
 # Rock Rapids Community App of Apps Order of Launch
 
-1) [Centralized info and top level links to other apps (.INFO)]([RockRapids.INFO](https://rockrapids.github.io/FOSS/0/)),
+1) [Centralized info and top level links to other apps [(.INFO)](https://rockrapids.github.io/FOSS/0/),
 
-2) [Volunteering and optimization/recognition of volunteer abilities/time (.XYZ)]([RockRapids.XYZ](https://rockrapids.github.io/FOSS/7/)),    
+2) [Volunteering and optimization/recognition of volunteer abilities/time [(.XYZ)](https://rockrapids.github.io/FOSS/7/),    
 
 3) [Retail promotions and shopping events (.SHOP)]([RockRapids.SHOP](https://rockrapids.github.io/FOSS/4/)),
 
