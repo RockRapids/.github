@@ -10,9 +10,9 @@
 
 5) Arts, music, gardening, collections, BBQ, writing and various forms of creativity [(.ART)](https://rockrapids.github.io/FOSS/1/),
 
-6) Marketplace listings of top ten things on sale [(.STORE)](https://rockrapids.github.io/FOSS/5/) 
+6) Local employment, remote/hybric employement, side-hustles [(.WORK)](https://rockrapids.github.io/FOSS/6/)
 
-7) Local employment, remote/hybric employement, side-hustles [(.WORK)](https://rockrapids.github.io/FOSS/6/)
+7) Marketplace listings of top ten things on sale [(.STORE)](https://rockrapids.github.io/FOSS/5/) 
 
 8) Civic, schoool, church, service provider information [(.GUIDE)](https://rockrapids.github.io/FOSS/3/)
 
